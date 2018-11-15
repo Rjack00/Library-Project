@@ -9,6 +9,10 @@ body {
   background-image: url('../images/giphy.gif'); 
   background-size: 100%;
 }
+audio {
+  width: 17%;
+  
+}
 .table-wrap {
   text-align: center;
   margin: 0% 15%
@@ -33,17 +37,13 @@ th {
   font-size: 150%;
 }
 .library-title {
-  font-size: 5rem;
+  font-size: 2.5rem;
   margin-bottom: 10%;
-}
-
-.library-title {
   font-family: 'Roboto', sans-serif;
   font-style: italic;
+  width: 100%;
 }
+
 .modal-table {
   margin-left: 23%;
-}
-audio {
-  background-color: black;
 }
